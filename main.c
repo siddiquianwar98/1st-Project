@@ -18,8 +18,6 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
-#include "stdio.h"
-//hello how do you do
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
