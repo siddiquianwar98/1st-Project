@@ -19,6 +19,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 #include "stdio.h"
+// hello
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
@@ -46,7 +47,7 @@ SPI_HandleTypeDef hspi2;
 /* USER CODE BEGIN PV */
 union data
 {
-	int z;
+
 	int x;
 	char y[4];
 };
